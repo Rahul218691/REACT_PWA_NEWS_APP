@@ -7,3 +7,6 @@ API USED FROM https://gnews.io/
 Clone the Repository  
 npm install  
 npm start
+
+#DEMO LINK  
+https://sad-raman-7aeac9.netlify.app/
